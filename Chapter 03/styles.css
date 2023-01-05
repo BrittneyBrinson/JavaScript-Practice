@@ -19,3 +19,7 @@ body{
 .calculator-grid > button {
     cursor: pointer;
 }
+.center-title {
+    display:grid;
+    justify-content: center;
+}
